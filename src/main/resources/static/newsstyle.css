@@ -1,0 +1,21 @@
+header{
+  background-color:#586F7C;
+  color: #F4F4F9
+}
+th{
+  background-color: #2F4550 !important;
+  color: #F4F4F9 !important
+}
+td{
+  background-color: #CFCDC2 !important;
+  color: #454545 !important
+}
+a:link, a:visited, a:active{
+  color: #F4F4F9
+}
+a:hover{
+  color: #F4F4F9 !important
+}
+body{
+  background-color: #CFCDC2 !important;
+}
